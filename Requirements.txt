@@ -1,0 +1,23 @@
+Name: pandas
+Version: 2.1.4
+Summary: Powerful data structures for data analysis, time series, and statistics
+
+Name: numpy
+Version: 1.26.4
+Summary: Fundamental package for array computing in Python
+
+Name: matplotlib
+Version: 3.8.0
+Summary: Python plotting package
+
+Name: catboost
+Version: 1.2.3
+Summary: CatBoost Python Package
+
+Name: scikit-learn
+Version: 1.2.2
+Summary: A set of python modules for machine learning and data mining
+
+Name: jupyter
+Version: 1.0.0
+Summary: Jupyter metapackage.
